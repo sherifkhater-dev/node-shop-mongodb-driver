@@ -10,7 +10,7 @@ This project demonstrates building an online shop using the MVC architecture wit
 ---
 ## 📸 Screenshots
 
-![todo-app-react-mui](public/images/site.png)
+![node-shop-mongodb-driver](public/images/site.png)
 
 ## 🚀 Features
 
