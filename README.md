@@ -1,6 +1,6 @@
 # 🛒 Node Shop - MongoDB Native Driver
 
-A full-stack e-commerce web application built with **Node.js**, **Express.js**, **EJS**, and the **MongoDB Native Driver**.
+A full-stack e-commerce web application built with **Node.js**, **Express.js**, **EJS**, and the **MongoDB Native Driver**
 
 This project demonstrates building an online shop using the MVC architecture without using an ODM like Mongoose. It includes product management, shopping cart functionality, and order processing while interacting directly with MongoDB.
 
